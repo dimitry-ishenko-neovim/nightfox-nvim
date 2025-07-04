@@ -1,0 +1,2 @@
+autoload colors doc lua plugin usr/share/nightfox-nvim
+debian/nightfox.lua etc/skel/.config/nvim/plugin/

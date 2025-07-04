@@ -1,5 +1,40 @@
-nightfox-nvim (3.10.0-1) UNRELEASED; urgency=medium
+nightfox-nvim (3.10.0-1) unstable; urgency=medium
 
-  * Initial release.
+  [ Dimitry Ishenko ]
+  * Add Debian packaging
 
- -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Thu, 03 Jul 2025 21:46:30 -0400
+  [ github-actions[bot] ]
+  * chore(main): release 3.10.0 (#423)
+
+  [ EdenEast ]
+  * ci: fix macos neovim install
+  * chore: update checkout actions from v3 to v4
+
+  [ Will Johnston ]
+  * feat(extra): adding starship(#445)
+
+  [ Charles Nguyen ]
+  * Update feline.lua (#442)
+
+  [ Avinal Kumar ]
+  * fix(zellij): corrected text selection bg color (#444)
+
+  [ Evgeni Chasnovski ]
+  * feat(mini): add new highlight groups (#443)
+
+  [ Kai Forsthövel ]
+  * chore: update repo URL for neogit (#436)
+
+  [ Yadunandan Pillai ]
+  * feat: added custom styling for preprocessor macros
+
+  [ Sergey Kochetkov ]
+  * Update readme.md (#426)
+
+  [ Rahul Garg ]
+  * fix: add NotifyBackground missing highlight (#422)
+
+  [ k-rodgers ]
+  * documentation: Change spelling of "week" to "weak" (#417)
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Thu, 03 Jul 2025 21:49:48 -0400
